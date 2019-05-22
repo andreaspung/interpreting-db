@@ -1,0 +1,4 @@
+data/*
+graphs/*
+.vector_cache/*
+.ipynb_checkpoints/*
