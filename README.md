@@ -8,11 +8,13 @@ In this Bachelor’s Thesis, a convolutional text classification neural network 
 
 ## Running the notebook
 
-Open Anaconda prompt from this project's root directory. Run the following commands:
+Open Anaconda prompt as an administrator from this project's root directory. Run the following commands:
 
 `conda create --name interpreting-db --file env.txt` (64-bit Windows environment file)
 
 `activate interpreting-db`
+
+`python -m spacy download en` 
 
 `jupyter notebook`
 
